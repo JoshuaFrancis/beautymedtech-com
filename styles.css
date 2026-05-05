@@ -249,6 +249,8 @@ p{ margin:0; }
     padding-right: var(--pad-x);
     justify-content: flex-start;
     padding-top: clamp(2.5rem, 8vw, 4rem);
+    align-items: center;
+    text-align: center;
   }
 }
 
